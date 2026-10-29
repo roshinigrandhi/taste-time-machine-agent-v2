@@ -1,0 +1,3 @@
+[functions.qloo-discover]
+verify_jwt = true
+entrypoint = "./functions/qloo-discover/index.ts"
